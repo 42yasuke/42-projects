@@ -1,0 +1,42 @@
+[submodule "common_core/libft"]
+	path = common_core/libft
+	url = https://github.com/42yasuke/libft.git
+[submodule "common_core/ft_printf"]
+	path = common_core/ft_printf
+	url = https://github.com/42yasuke/ft_printf.git
+[submodule "common_core/get_next_line"]
+	path = common_core/get_next_line
+	url = https://github.com/42yasuke/get_next_line.git
+[submodule "common_core/minitalk"]
+	path = common_core/minitalk
+	url = https://github.com/42yasuke/minitalk.git
+[submodule "common_core/push_swap"]
+	path = common_core/push_swap
+	url = https://github.com/42yasuke/push_swap.git
+[submodule "common_core/so_long"]
+	path = common_core/so_long
+	url = https://github.com/42yasuke/so_long.git
+[submodule "common_core/pipex"]
+	path = common_core/pipex
+	url = https://github.com/42yasuke/pipex.git
+[submodule "common_core/fract-ol"]
+	path = common_core/fract-ol
+	url = https://github.com/42yasuke/fract-ol.git
+[submodule "common_core/philo"]
+	path = common_core/philo
+	url = https://github.com/42yasuke/philo.git
+[submodule "common_core/minishell"]
+	path = common_core/minishell
+	url = https://github.com/42yasuke/minishell.git
+[submodule "common_core/Cub3d"]
+	path = common_core/Cub3d
+	url = https://github.com/42yasuke/Cub3d.git
+[submodule "common_core/cpp"]
+	path = common_core/cpp
+	url = https://github.com/42yasuke/cpp.git
+[submodule "common_core/Inception"]
+	path = common_core/Inception
+	url = https://github.com/42yasuke/Inception.git
+[submodule "common_core/ft_irc"]
+	path = common_core/ft_irc
+	url = https://github.com/42yasuke/ft_irc.git
