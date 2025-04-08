@@ -23,7 +23,7 @@ Bienvenue sur mon dépôt central regroupant tous les projets réalisés dans le
 | [so_long](https://github.com/42yasuke/so_long) | Jeu 2D avec la miniLibX | C, miniLibX |
 | [fract-ol](https://github.com/42yasuke/fract-ol) | Génération de fractales interactives en 2D | C, miniLibX |
 | [minishell](https://github.com/42yasuke/minishell)   | Implémentation d'un shell simplifié | C, Bash         |
-| [Philosophers](https://github.com/42yasuke/philosophers) | Simulation du problème des philosophes mangeurs | C |
+| [Philosophers](https://github.com/42yasuke/philo) | Simulation du problème des philosophes mangeurs | C |
 | [cub3d](https://github.com/42yasuke/cub3d) | Premier moteur de jeu en 3D utilisant Raycasting | C, miniLibX |
 | [cpp](https://github.com/42yasuke/cpp) | Modules de programmation orientée objet en C++ | C++ |
 | [ft_irc](https://github.com/42yasuke/ft_irc) | Implémentation d'un serveur IRC | C++ |
