@@ -2,13 +2,9 @@
 
 Bienvenue sur mon dépôt central regroupant tous les projets réalisés dans le cadre de l'école [42](https://42.fr). Chaque dossier correspond à un sous-module Git pointant vers un dépôt GitHub indépendant.
 
----
-
 ## 🏫 À propos de l'École 42
 
 > L'école 42 est une formation en informatique gratuite, ouverte à tous, basée sur la pédagogie par projets. L'apprentissage se fait par la pratique, la collaboration et l'autonomie.
-
----
 
 ## 📂 Liste des Projets
 
@@ -27,10 +23,6 @@ Bienvenue sur mon dépôt central regroupant tous les projets réalisés dans le
 | [cub3d](https://github.com/42yasuke/cub3d) | Premier moteur de jeu en 3D utilisant Raycasting | C, miniLibX |
 | [cpp](https://github.com/42yasuke/cpp) | Modules de programmation orientée objet en C++ | C++ |
 | [ft_irc](https://github.com/42yasuke/ft_irc) | Implémentation d'un serveur IRC | C++ |
-
-*Chaque projet possède son propre `README.md` détaillé dans son dépôt respectif.*
-
----
 
 ## 🚀 Cloner ce Dépôt avec les Sous-modules
 
