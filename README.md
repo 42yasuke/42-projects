@@ -1,6 +1,6 @@
 # 🎓 Projets du Tronc Commun de l'École 42
 
-Bienvenue sur mon dépôt central regroupant tous les projets réalisés dans le cadre de l'école [42](https://42.fr). Chaque dossier correspond à un sous-module Git pointant vers un dépôt GitHub indépendant.
+Bienvenue sur mon dépôt central regroupant tous les projets du tronc commun réalisés dans le cadre de l'école [42](https://42.fr). Chaque dossier correspond à un sous-module Git pointant vers un dépôt GitHub indépendant.
 
 ## 🏫 À propos de l'École 42
 
